@@ -1,0 +1,2 @@
+# pythonando-construct
+Django Project
